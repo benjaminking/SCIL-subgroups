@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Ben/My Documents/Tools/stanford-corenlp-2012-04-09/xom.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Ben/My Documents/Tools/stanford-corenlp-2012-04-09/joda-time-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Ben/My Documents/Tools/stanford-corenlp-2012-04-09/joda-time.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Ben/My Documents/Tools/stanford-corenlp-2012-04-09/stanford-corenlp-2012-04-09.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Ben/My Documents/Tools/stanford-corenlp-2012-04-09/stanford-corenlp-2012-04-09-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Ben/My Documents/Tools/stanford-corenlp-2012-04-09/stanford-corenlp-2012-04-09-models.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Ben/My Documents/Tools/stanford-corenlp-2012-04-09/stanford-corenlp-2012-04-09-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Ben/My Documents/Tools/javaml-0.1.5/javaml-0.1.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
